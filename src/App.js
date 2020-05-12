@@ -8,10 +8,6 @@ import { select, line, curveCardinal, scaleLinear, axisBottom, axisRight, scaleB
 
 function App() {
 
-  const useResizeObserver = (ref) => {
-    const [dimensions, setDimensions] = useState(null);
-    return dimensions;
-  };
 
   const [data, setData] = useState([25, 30, 54, 12, 123, 44, 60, 121])
 
