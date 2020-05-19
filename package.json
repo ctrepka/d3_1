@@ -37,7 +37,6 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "properties": {
-    "homepage":"https://ctrepka.github.io/d3_1"
-  }
+  "homepage":"https://ctrepka.github.io/d3_1"
+
 }
