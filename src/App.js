@@ -15,6 +15,7 @@ function App() {
   return (
     <React.Fragment>
       <BarChart data={data} />
+      <BarChart data={data} />
     </React.Fragment>
   );
 }
